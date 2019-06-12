@@ -8,7 +8,7 @@
 #
 ###############################################################################
 
-DIR="/opt/EOSmainNet"
+DIR="/opt/EOS-MainNet/data"
 
 
  if [ -f $DIR"/nodeos.pid" ]; then
